@@ -30,7 +30,6 @@ In manufacturing, the final packaging step often requires stamping products with
 
 <img width="522" height="410" alt="prototype top view" src="https://github.com/user-attachments/assets/af743b6d-5459-40b5-bd5d-a854969280b5" />
 
-
 ```
 ```
 
