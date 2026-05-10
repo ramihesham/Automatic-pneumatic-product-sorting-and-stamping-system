@@ -17,11 +17,11 @@ In manufacturing, the final packaging step often requires stamping products with
 
 ## Features
 
-- 🎨 **Colour-based sorting** — automatically distinguishes between red and blue products
-- 🔊 **Ultrasonic detection** — triggers the stamp only when a product is in position
-- 💧 **Double-acting hydraulic cylinders** — precise extend/retract control without spring dependency, suitable for upside-down stamping installation
-- ⚡ **5/2 DCV solenoid control** — relay-based signal routing from Arduino sensors to 24V solenoids
-- 🔄 **Fully automated loop** — products move continuously with no manual intervention
+- **Colour-based sorting** — automatically distinguishes between red and blue products
+- **Ultrasonic detection** — triggers the stamp only when a product is in position
+- **Double-acting pneumatic cylinders** — precise extend/retract control without spring dependency, suitable for upside-down stamping installation
+- **5/2 DCV solenoid control** — relay-based signal routing from Arduino sensors to 24V solenoids
+- **Fully automated loop** — products move continuously with no manual intervention
 
 ---
 
@@ -31,9 +31,7 @@ In manufacturing, the final packaging step often requires stamping products with
 <img width="522" height="410" alt="prototype top view" src="https://github.com/user-attachments/assets/af743b6d-5459-40b5-bd5d-a854969280b5" />
 
 
-<img width="697" height="417" alt="front view" src="https://github.com/user-attachments/assets/1c591957-27a9-4673-8092-6b308c62af2a" />
-
-
+```
 ```
 
 ## System Architecture
